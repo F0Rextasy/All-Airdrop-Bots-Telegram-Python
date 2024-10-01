@@ -1,16 +1,15 @@
 [Check For Updates](#check-for-updates)
 
 # All Airdrop Bots Telegram Python
-------------------
 :pushpin: :bomb: Let's follow the "" "Coin Name" Update File "" file. I will update it constantly.:bangbang::bangbang:
 
 [Python Bot List](https://github.com/F0Rextasy/All-Airdrop-Bots-Telegram-Python)
 
 [Javascript Bot List](https://github.com/F0Rextasy/All-Airdrop-Bots-Telegram-Javascript)
 
------------
+
 :white_check_mark:# README.md file is inside all Bot folders. Please follow the Guide!!
---------
+-
 
 | Functional	| Supported |
 | :--- | :---: |
