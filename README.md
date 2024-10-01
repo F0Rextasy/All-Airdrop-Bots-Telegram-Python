@@ -1,6 +1,7 @@
 # All Airdrop Bots Telegram Python
 ------------------
 [Javascript Bot List](https://github.com/F0Rextasy/All-Airdrop-Bots-Telegram-Javascript)
+[Python Bot List](https://github.com/F0Rextasy/All-Airdrop-Bots-Telegram-Python)
 -----------
 # README.md file is inside all Bot folders. Please follow the Guide!!
 --------
