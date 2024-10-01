@@ -35,7 +35,7 @@ Binding a proxy to a session/query_id	| ✅
 | All Airdrop Bots Join	| Latest Update | Update File |
 | :----: | :---: | :---: |
 | [Blum Join](https://t.me/blum/app?startapp=ref_olOw5Gn0PM) | 30 Sep 2024 / 03:50 |
-| [CatsGang Join](t.me/catsgang_bot/join?startapp=oYmkZytNC7bIi2EO7W3Ru) | 30 Sep 2024 / 03:50 |
+| [CatsGang Join](t.me/catsgang_bot/join?startapp=oYmkZytNC7bIi2EO7W3Ru) | 02 Oct 2024 / 00:55 🕛 | [CatsGang Update v1](https://github.com/F0Rextasy/All-Airdrop-Bots-Telegram-Python/blob/main/CatsGang%20Update%20v1)
 | [CatvsDogs Join](https://t.me/catsdogs_game_bot/join?startapp=1201989442) | 30 Sep 2024 / 03:50 |
 | [Cex-io Join](https://t.me/cexio_tap_bot?start=1716323292948838) | 30 Sep 2024 / 03:50 |
 | [BybitCoinsweeper Join](https://t.me/BybitCoinsweeper_Bot?start=referredBy=1201989442) | 01 Oct 2024 / 10:00 🕙 | [Coinsweeper Update v1](https://github.com/F0Rextasy/All-Airdrop-Bots-Telegram-Python/blob/main/Coinsweeper%20Update%20File)
