@@ -47,7 +47,7 @@ Binding a proxy to a session/query_id	| ✅
 | [Por3MiniApp Join](https://t.me/Port3miniapp_bot?start=9J3wAH) | 30 Sep 2024 / 03:50 |
 | [Tomarket Join](t.me/Tomarket_ai_bot/app?startapp=0000AvgH) | 01 Oct 2024 / 10:00 🕙| [Tomarket Update v1](https://github.com/F0Rextasy/All-Airdrop-Bots-Telegram-Python/blob/main/Tomarket%20Update%20File)
 | [Agent301 Join](https://t.me/Agent301Bot/app?startapp=onetime1201989442) | 30 Sep 2024 / 03:50 | 
-| [B_Users Join](t.me/b_usersbot/join?startapp=ref-5vEh2bgk4JjkqpTTZZqbAC) | 30 Sep 2024 / 03:50 |
+| [B_Users Join](t.me/b_usersbot/join?startapp=ref-5vEh2bgk4JjkqpTTZZqbAC) | 02 Oct 2024 / 00:45 🕧 | [B_Users Update v1](https://github.com/F0Rextasy/All-Airdrop-Bots-Telegram-Python/blob/main/B_Users%20Update%20v1)
 | [Banana Join](https://t.me/OfficialBananaBot/banana?startapp=referral=2QP9Q31) | 30 Sep 2024 / 03:50 |
 | [Boinkers Join](https://t.me/boinker_bot/boinkapp?startapp=boink1201989442) | 30 Sep 2024 / 03:50 |
 | [MMPro Bump Join](https://t.me/MMproBump_bot?start=ref_1201989442) | 30 Sep 2024 / 03:50 |
