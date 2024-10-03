@@ -35,11 +35,11 @@ Binding a proxy to a session/query_id	| ✅
 | All Airdrop Bots Join	| Latest Update | v1 | v2 | v3
 | :----: | :---: | :---: | :---: | :---: |
 | [Blum Join](https://t.me/blum/app?startapp=ref_olOw5Gn0PM) | 30 Sep 2024 / 03:50 |
-| [CatsGang Join](t.me/catsgang_bot/join?startapp=oYmkZytNC7bIi2EO7W3Ru) | 02 Oct 2024 / 18:30 🕥 | [CatsGang Update v2](https://github.com/F0Rextasy/All-Airdrop-Bots-Telegram-Python/blob/main/CatsGang%20Update%20v2)
+| [CatsGang Join](t.me/catsgang_bot/join?startapp=oYmkZytNC7bIi2EO7W3Ru) | 03 Oct 2024 / 12:00 🕛 | [CatsGang Update v1](https://github.com/F0Rextasy/All-Airdrop-Bots-Telegram-Python/blob/main/CatsGang%20Update%20v1)| [CatsGang Update v2](https://github.com/F0Rextasy/All-Airdrop-Bots-Telegram-Python/blob/main/CatsGang%20Update%20v2)
 | [CatvsDogs Join](https://t.me/catsdogs_game_bot/join?startapp=1201989442) | 30 Sep 2024 / 03:50 |
 | [Cex-io Join](https://t.me/cexio_tap_bot?start=1716323292948838) | 30 Sep 2024 / 03:50 |
 | [BybitCoinsweeper Join](https://t.me/BybitCoinsweeper_Bot?start=referredBy=1201989442) | 01 Oct 2024 / 10:00 🕙 | [Coinsweeper Update v1](https://github.com/F0Rextasy/All-Airdrop-Bots-Telegram-Python/blob/main/Coinsweeper%20Update%20File)
-| [Fabrika](https://t.me/fabrika/app?startapp=ref_1828876) | 01 Oct 2024 / 10:00 🕙 | [Fabrika Update v1](https://github.com/F0Rextasy/All-Airdrop-Bots-Telegram-Python/blob/main/Fabrika%20Update%20File) | [Fabrika Update v2](https://github.com/F0Rextasy/All-Airdrop-Bots-Telegram-Python/blob/main/Fabrika%20Update%20v2)
+| [Fabrika](https://t.me/fabrika/app?startapp=ref_1828876) | 03 Oct 2024 / 12:00 🕛 | [Fabrika Update v1](https://github.com/F0Rextasy/All-Airdrop-Bots-Telegram-Python/blob/main/Fabrika%20Update%20File) | [Fabrika Update v2](https://github.com/F0Rextasy/All-Airdrop-Bots-Telegram-Python/blob/main/Fabrika%20Update%20v2)
 | [Major Join](https://t.me/major/start?startapp=1201989442) | 30 Sep 2024 / 03:50 |
 | [MeMeFi Join](https://t.me/memefi_coin_bot?start=r_e1d3c9b582) | 30 Sep 2024 / 03:50 |
 | [OKX Racer Join](https://t.me/OKX_official_bot/OKX_Racer?startapp=linkCode_90171897) | 30 Sep 2024 / 03:50 |
